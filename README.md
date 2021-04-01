@@ -8,9 +8,7 @@ The internet should a way to help users familiarize and engage themselves with o
 
 [Chrome Extension](https://bit.ly/veritasforchrome)
 
-
 [Demo](https://bit.ly/productdemoveritas)
-
 
 [Landing Page](https://ss11077.wixsite.com/veritas)
 
